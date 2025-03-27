@@ -1,6 +1,6 @@
 # Active Office Prolus mọi phiên bản mới nhất
 
-## ProJect 2024:
+## Prolus 2024:
 Bạn run **cmd** bằng quyền **Run as Administrator** sau đó copy 1 trong 2 đoạn code sau đây dán vào là xong!
 
   ```php
@@ -81,7 +81,7 @@ Bạn run **cmd** bằng quyền **Run as Administrator** sau đó copy 1 trong 
   
   ```php
   @echo off
-  title  Activate Microsoft Office Projet 2019 for FREE - https://github.com/BsChiThanh 
+  title  Activate Microsoft Office Prolus 2019 for FREE - https://github.com/BsChiThanh 
   cls
   color F4
   mode con cols=98 lines=30
@@ -107,7 +107,7 @@ Bạn run **cmd** bằng quyền **Run as Administrator** sau đó copy 1 trong 
   pause >nul
   ```
 
-## ProJect 2016
+## Prolus 2016
 
   ```php
   powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/ProJect2016.ps1)
@@ -117,7 +117,7 @@ Bạn run **cmd** bằng quyền **Run as Administrator** sau đó copy 1 trong 
   
   ```php
   @echo off
-  title  Activate Microsoft Office Projet 2016 for FREE - https://github.com/BsChiThanh 
+  title  Activate Microsoft Office Prolus 2016 for FREE - https://github.com/BsChiThanh 
   cls
   color F4
   mode con cols=98 lines=30
