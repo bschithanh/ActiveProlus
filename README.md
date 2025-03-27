@@ -110,7 +110,7 @@ Bạn run **cmd** bằng quyền **Run as Administrator** sau đó copy 1 trong 
 ## Prolus 2016
 
   ```php
-  powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/ProJect2016.ps1)
+  powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/Prolus2016.ps1)
   ```
 
   Hoặc
